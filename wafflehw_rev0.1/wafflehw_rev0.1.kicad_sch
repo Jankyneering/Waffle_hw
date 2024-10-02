@@ -8937,7 +8937,7 @@
 			(uuid "b7993f34-d199-4618-8e31-2980f06050a4")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "U4")
 					(unit 1)
@@ -9072,7 +9072,7 @@
 			(uuid "168d97c0-1b31-43b8-b631-c8b98e2eac44")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C7")
 					(unit 1)
@@ -9138,7 +9138,7 @@
 			(uuid "fb31187f-dfad-4090-a704-dac004d15be5")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR016")
 					(unit 1)
@@ -9204,7 +9204,7 @@
 			(uuid "71c540b6-833d-456e-848c-02247a0eb403")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR015")
 					(unit 1)
@@ -9337,7 +9337,7 @@
 			(uuid "cac27fc6-e160-4047-94a0-a7169fbcfa1c")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR020")
 					(unit 1)
@@ -9473,7 +9473,7 @@
 			(uuid "a98cd7e8-5e23-48c9-bbc9-c99b84dacc2f")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR018")
 					(unit 1)
@@ -9539,7 +9539,7 @@
 			(uuid "d7db3aff-7e64-457d-8d1e-778e222416de")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR08")
 					(unit 1)
@@ -9605,7 +9605,7 @@
 			(uuid "b4d1d813-a2af-4025-9fc2-5ffd2856a3b3")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR013")
 					(unit 1)
@@ -9742,7 +9742,7 @@
 			(uuid "7a7c689a-a971-4bef-8bb0-3738a169892c")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C3")
 					(unit 1)
@@ -9888,7 +9888,7 @@
 			(uuid "bde6431b-4b58-433e-824e-fe83c41d0a81")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "U2")
 					(unit 1)
@@ -10075,7 +10075,7 @@
 			(uuid "85085ea2-e37a-4e5f-8fbb-b3c1d25d99b3")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "U3")
 					(unit 1)
@@ -10141,7 +10141,7 @@
 			(uuid "c1de8c8b-e3a1-4500-9b47-bdc67a564e8b")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR028")
 					(unit 1)
@@ -10217,7 +10217,7 @@
 			(uuid "bdb3b591-5702-4694-9d0f-e25e076e6d74")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "Q1")
 					(unit 1)
@@ -10363,7 +10363,7 @@
 			(uuid "ec0800e2-2561-49df-963a-5f4a3a3f3ee4")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "J5")
 					(unit 1)
@@ -10433,7 +10433,7 @@
 			(uuid "7eab440b-c0c9-4d2b-b95c-6bc6ef4ca59f")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "R2")
 					(unit 1)
@@ -10499,7 +10499,7 @@
 			(uuid "55ab091a-b005-41b4-bf38-d923d1f3f290")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR01")
 					(unit 1)
@@ -10569,7 +10569,7 @@
 			(uuid "99a282cd-62a4-4453-85d9-2328b702c413")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C6")
 					(unit 1)
@@ -10639,7 +10639,7 @@
 			(uuid "317282aa-fad9-4018-b5b8-e57a0bf9475d")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C10")
 					(unit 1)
@@ -10770,7 +10770,7 @@
 			(uuid "d8e772da-aab3-4c8d-80a4-74b0cd6f6c2e")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR026")
 					(unit 1)
@@ -10846,7 +10846,7 @@
 			(uuid "3c863106-8169-4f41-ae72-d8ed655b035b")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "J2")
 					(unit 1)
@@ -10966,7 +10966,7 @@
 			(uuid "6be95e4e-f005-4d96-b094-cd6b62008b7e")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "USB1")
 					(unit 1)
@@ -11032,7 +11032,7 @@
 			(uuid "103a1d89-edc0-4433-a7bf-076b36b8e3c4")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR04")
 					(unit 1)
@@ -11184,7 +11184,7 @@
 			(uuid "b3af2273-d7e3-47e4-b6ed-dee2d8021a1b")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "R4")
 					(unit 1)
@@ -11250,7 +11250,7 @@
 			(uuid "921418d0-7cf2-436e-baca-9638262685c4")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR024")
 					(unit 1)
@@ -11316,7 +11316,7 @@
 			(uuid "fdaf2724-b1b4-4f9e-959d-0ee7b9ca04da")
 		)
 		(instances
-			(project "Waffle2Rev0.1"
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR09")
 					(unit 1)
@@ -11610,7 +11610,7 @@
 			(uuid "6717fc1a-8287-430c-a1ce-5bee24900e09")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "J3")
 					(unit 1)
@@ -11741,7 +11741,7 @@
 			(uuid "9bf94ed8-93a0-43ec-b115-7beb98babc1b")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR07")
 					(unit 1)
@@ -11885,7 +11885,7 @@
 			(uuid "d3adaa4a-4d67-49dc-ac97-77a32ee39f9a")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "SW4")
 					(unit 1)
@@ -12018,7 +12018,7 @@
 			(uuid "927aac8e-4e2a-48d4-913d-7dcbbe367494")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR03")
 					(unit 1)
@@ -12084,7 +12084,7 @@
 			(uuid "91c186ea-dd59-4244-9d89-1dfe6512fb7b")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR011")
 					(unit 1)
@@ -12154,7 +12154,7 @@
 			(uuid "cd789b5a-762e-4f17-a34d-889684e4da46")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C12")
 					(unit 1)
@@ -12242,7 +12242,7 @@
 			(uuid "617cad7f-9f97-4d73-83d9-88a86200d741")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "D1")
 					(unit 1)
@@ -12375,7 +12375,7 @@
 			(uuid "cd447711-d41c-4227-923d-a58024f57cad")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR05")
 					(unit 1)
@@ -12443,7 +12443,7 @@
 			(uuid "0df9556c-71c7-4f11-8e96-8979835da56d")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "SW3")
 					(unit 1)
@@ -12509,7 +12509,7 @@
 			(uuid "215b21cd-0a31-48ed-993d-eaea9076b315")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR017")
 					(unit 1)
@@ -12575,7 +12575,7 @@
 			(uuid "3892f950-fbb4-4b24-bee7-b295bc65ebac")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR029")
 					(unit 1)
@@ -12641,7 +12641,7 @@
 			(uuid "a4a7de76-2098-4e7d-995e-7535aa69e074")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR014")
 					(unit 1)
@@ -12711,7 +12711,7 @@
 			(uuid "c422c0fb-ebec-425b-ba95-e9dde21d9d9e")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "R3")
 					(unit 1)
@@ -12779,7 +12779,7 @@
 			(uuid "d4091584-9a43-4ea0-8847-269ffa27015a")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "SW1")
 					(unit 1)
@@ -12849,7 +12849,7 @@
 			(uuid "3b6ec83f-9d5a-4fc2-bb52-2f1af2a1a15a")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C1")
 					(unit 1)
@@ -12915,7 +12915,7 @@
 			(uuid "3d57af2d-51e4-4064-8185-1266829cfec9")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR025")
 					(unit 1)
@@ -13053,7 +13053,7 @@
 			(uuid "acca63ce-528b-4183-af54-c139ed0d3085")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "SW2")
 					(unit 1)
@@ -13119,7 +13119,7 @@
 			(uuid "20259961-3179-436d-bad8-83c75f95a2dd")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR033")
 					(unit 1)
@@ -13207,7 +13207,7 @@
 			(uuid "dcf86122-13b0-4ed5-86a4-6a27ab203a94")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "D2")
 					(unit 1)
@@ -13277,7 +13277,7 @@
 			(uuid "43b61955-f15a-471f-8b0a-bb824366bc74")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "J4")
 					(unit 1)
@@ -13477,7 +13477,7 @@
 			(uuid "343d13e1-28f1-4fa1-878e-b9731e1047b7")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR022")
 					(unit 1)
@@ -13543,7 +13543,7 @@
 			(uuid "77fa3496-3bf9-4935-a6fd-9918101b9c49")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR06")
 					(unit 1)
@@ -13681,7 +13681,7 @@
 			(uuid "6a0fe255-becc-49e4-abbc-9c542c7c53cf")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C2")
 					(unit 1)
@@ -13751,7 +13751,7 @@
 			(uuid "721a3382-ee34-4759-afcb-6e0d8c2fde12")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "AE1")
 					(unit 1)
@@ -13817,7 +13817,7 @@
 			(uuid "2d8f3bbc-82ec-4278-bcd3-d9b1a28acba6")
 		)
 		(instances
-			(project "Waffle2Rev0.1"
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR023")
 					(unit 1)
@@ -13887,7 +13887,7 @@
 			(uuid "c3fe1ea2-b65b-444e-9b9d-bd5b573b4d78")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C8")
 					(unit 1)
@@ -13957,7 +13957,7 @@
 			(uuid "ff05f96a-2867-4230-bb0d-4db69aec0cce")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C4")
 					(unit 1)
@@ -14023,7 +14023,7 @@
 			(uuid "008884d2-eee6-4217-8086-a359d3364b4e")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR019")
 					(unit 1)
@@ -14091,7 +14091,7 @@
 			(uuid "e2a3a2e5-71df-4ecf-b218-71175fca8a4d")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "FB1")
 					(unit 1)
@@ -14161,7 +14161,7 @@
 			(uuid "25dd4749-adad-4a84-9a18-34c028b9d8e2")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "C5")
 					(unit 1)
@@ -14227,7 +14227,7 @@
 			(uuid "d7f335fc-9dc7-4f65-a84b-f51c02dd1076")
 		)
 		(instances
-			(project "Waffle2Rev0.1"
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR010")
 					(unit 1)
@@ -14263,7 +14263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 39.37 101.346 0)
 			(effects
 				(font
@@ -14297,7 +14297,7 @@
 			(uuid "dcccc844-22b1-4a3d-958b-1a0e8e05a19c")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "M1")
 					(unit 1)
@@ -14363,7 +14363,7 @@
 			(uuid "1a223528-3edb-4728-961d-0cd2658e886e")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR02")
 					(unit 1)
@@ -14433,7 +14433,7 @@
 			(uuid "38a9d14c-a59c-4ce7-9b6e-0600c6de239c")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "R1")
 					(unit 1)
@@ -14499,7 +14499,7 @@
 			(uuid "fc184d64-b124-428d-892c-11ca1086ca39")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR027")
 					(unit 1)
@@ -14611,7 +14611,7 @@
 			(uuid "94af48ad-978f-44a4-9e82-c01ac7eb2ebd")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "U1")
 					(unit 1)
@@ -14696,7 +14696,7 @@
 			(uuid "4b287ffb-9926-46ba-8553-c44ab3fc6cad")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "BUZZER1")
 					(unit 1)
@@ -14832,7 +14832,7 @@
 			(uuid "0a7548a3-18ca-4f6e-8ef2-e032d98a26eb")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR030")
 					(unit 1)
@@ -14898,7 +14898,7 @@
 			(uuid "8f83f5ff-0117-4d28-bdf4-2f0a2fa8d15f")
 		)
 		(instances
-			(project ""
+			(project "wafflehw_rev0.1"
 				(path "/4ff13b59-a364-4b9f-8d1b-d43f091608d9"
 					(reference "#PWR021")
 					(unit 1)
